@@ -1,0 +1,51 @@
+body{
+background-color: E6E6FA;
+font-family:'Lucida Bright',serif;
+font-size:16;
+}
+
+.menu-bar{
+background-color: #9370DB;
+text-align:center;
+}
+
+.menu-bar ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+.menu-bar ul li{
+display: inline-block;
+}
+
+.menu-bar ul li a{
+display: block;
+color: white;
+text-align: center;
+padding: 14 20;
+text-decoration: none;
+font-size: 17;
+}
+
+.menu-bar ul li a:hover{
+background-color: #1a1000;
+}
+
+h1{
+text-align:center;
+}
+
+h2{
+text-align:center;
+}
+
+p{
+text-align:center;
+}
+
+a{
+text-align:center;
+}
+
+

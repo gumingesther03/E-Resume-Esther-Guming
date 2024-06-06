@@ -1,0 +1,74 @@
+body{
+font-family:'Lucida Bright',serif;
+font-size:16;
+margin: 0;
+padding: 0;
+background-image: url("lilac-background.png");
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed;
+}
+
+.resume{
+max-width: 800;
+margin: 20 auto;
+padding: 20;
+background-color:#E6E6FA;
+box-shadow: 0 0 10 rgba(0, 0, 0, 0.1);
+display: flex;
+flex-direction: column;
+align-items: center;
+text-align: center;
+}
+
+.resume img {
+max-width: 100%;
+height: auto
+}
+
+.menu-bar{
+background-color: #9370DB;
+text-align:center;
+}
+
+.menu-bar ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+.menu-bar ul li{
+display: inline-block;
+}
+
+.menu-bar ul li a{
+display: block;
+color: white;
+text-align: center;
+padding: 14 20;
+text-decoration: none;
+font-size: 17;
+}
+
+.menu-bar ul li a:hover{
+background-color: #1a1000;
+}
+
+h1{
+text-align:center;
+}
+
+p{
+text-align:center;
+}
+
+ul{
+list-style-position: inside;
+text-align: center;
+padding: 0;
+margin: 0;
+}
+
+
+
